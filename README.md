@@ -1,2 +1,2 @@
-# Placement_Management_System
-Core_JAVA,Postman,SpringBoot
+Placement Management System
+"SpringPlacementManager: A Comprehensive Placement Management System with Core Java, SQL, Hibernate, and Spring Boot"
